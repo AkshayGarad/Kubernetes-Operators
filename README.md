@@ -1,6 +1,6 @@
 # Kubernetes Operators: Empowering Complex Application Management
 
-![alt text](https://github.com/AkshayGarad/Kubernetes-Pods-as-Jenkins-Dynamic-Agents/blob/main/1_aukSHPUQPrQxEvfUWbvKHw.png)
+![alt text](https://github.com/AkshayGarad/Kubernetes-Operators/blob/main/download%20(1).png)
 ## Introduction
 Kubernetes has emerged as the de facto platform for managing and scaling applications in the volatile container orchestration landscape. Kubernetes, with its robust features and extensibility, provides a solid foundation for deploying a variety of workloads. Kubernetes Operators are a powerful Kubernetes extension that has revolutionized application management. Operators extend Kubernetes' capabilities by leveraging custom controllers to simplify stateful application deployment, scaling, and lifecycle management. In this article, we will look at Kubernetes Operators and how they provide domain knowledge and automation to handle complex applications.
 
